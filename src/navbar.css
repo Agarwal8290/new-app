@@ -1,0 +1,44 @@
+.navbar{
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    background-color: white;
+    border-radius: 50%;
+    border: 1.5px solid white;
+   
+}
+
+
+.navbar1{
+    background: black;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 1rem;
+    padding-right: 1rem;
+   
+}
+
+.navbar2{
+    display: flex;
+    align-items: center;
+}
+
+.para{
+    color: white;
+    font-weight: bold
+}
+
+.para p{
+    font-size: 21px;
+    padding-left: 7px;
+}
+
+.navbar3 ul{
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+   gap: 4rem;
+}
